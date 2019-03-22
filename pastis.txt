@@ -1,12 +1,5 @@
 1kg de arina
 3 huevos
-<<<<<<< HEAD
 50 ml de agua
-
-
 valoracio: 10 es perfecte!
-=======
-
-
 cal = 345
->>>>>>> 40bae62b7e29fbbc41569a8543a19df9dac42133
